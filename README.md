@@ -1,6 +1,6 @@
 # prueba_moodle2
 
-Portafolio de Juan Fernando Puerta Vásquez Portafolio mi portafolio personal, una vitrina de mis proyectos y habilidades como desarrollador web en formación. Este sitio muestra mi experiencia, proyectos personales y enlaces a mis redes sociales, construido con un enfoque en diseño responsivo, accesibilidad y optimización. Descripción Este portafolio presenta: Inicio:Una sección  con información personal y enlaces a redes sociales.
+Portafolio de Juan Fernando Puerta Vásquez, mi portafolio personal, una vitrina de mis proyectos y habilidades como desarrollador web en formación. Este sitio muestra mi experiencia, proyectos personales y enlaces a mis redes sociales, construido con un enfoque en diseño responsivo, accesibilidad y optimización. Descripción Este portafolio presenta: Inicio:Una sección  con información personal y enlaces a redes sociales.
 
 Experiencia: Detalles de mi formación en desarrollo web con Riwi S.A. y UdeA como historiador.
 
