@@ -271,12 +271,12 @@ header {
 
 /* Contacto */
 .contacto {
-    padding: 80px 20px 60px; /* Padding-top para compensar el navbar fijo */
+    padding: 80px 20px 60px; 
     max-width: 800px;
     margin: 0 auto;
     text-align: center;
-    min-height: 200px; /* Altura mínima para visibilidad */
-    scroll-margin-top: 60px; /* Ajusta el desplazamiento para el navbar */
+    min-height: 200px; 
+    scroll-margin-top: 60px; 
 }
 
 .section-title {
@@ -318,8 +318,7 @@ header {
     background-color: #1a73e8;
     color: #ffffff;
 }
-
-/* Footer */ 
+/* Footer */
 footer {
     background: var(--secondary);
     color: #fff;
@@ -337,20 +336,20 @@ footer {
 
 /* Media Queries */
 @media (max-width: 768px) {
-    .hero-content {
+    .seccion-content {
         flex-direction: column;
         text-align: center;
     }
 
-    .hero-text h1 { font-size: clamp(1.8rem, 4vw, 2.2rem); }
+    .seccion-text h1 { font-size: clamp(1.8rem, 4vw, 2.2rem); }
 
     .navbar { flex-direction: column; gap: 1rem; }
 
-    .hero, .experiencia, .projects { padding: 2rem 3%; }
+    .seccion, .experiencia, .projects { padding: 4rem 3%; }
 }
 
 @media (max-width: 480px) {
-    .hero-image img { width: 200px; height: 200px; }
+    .seccion-image img { width: 200px; height: 200px; }
 
     .social-links a { width: 35px; height: 35px; }
 }
