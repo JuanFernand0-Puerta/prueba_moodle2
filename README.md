@@ -21,7 +21,7 @@ Cualquier persona puede verlo y darle uso
 
 Mantiene el tono profesional , siendo un portafolio de desarrollador.
 
-![image](https://github.com/user-attachments/assets/c5a8b16b-7543-4bcf-b69c-75ca43605362)
 
+![Captura desde 2025-06-09 19-34-27](https://github.com/user-attachments/assets/6a9ab1ec-3379-42e3-ad93-bac3b42047bb)
 
 
