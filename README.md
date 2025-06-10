@@ -1,4 +1,7 @@
 # prueba_moodle2
+Juan Fernando Puerta Vasquez
+T.I 1025764147
+Clan: Van rossum
 
 Portafolio de Juan Fernando Puerta Vásquez, mi portafolio personal, una vitrina de mis proyectos y habilidades como desarrollador web en formación. Este sitio muestra mi experiencia, proyectos personales y enlaces a mis redes sociales, construido con un enfoque en diseño responsivo, accesibilidad y optimización. Descripción Este portafolio presenta: 
 
@@ -17,3 +20,6 @@ Este es un proyecto personal.
 Cualquier persona puede verlo y darle uso
 
 Mantiene el tono profesional , siendo un portafolio de desarrollador.
+
+
+
